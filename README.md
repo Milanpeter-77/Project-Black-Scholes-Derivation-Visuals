@@ -4,9 +4,9 @@ This repository contains the supporting material for a short theoretical paper o
 
 ## Repository structure
 
-- `BS-Derivation-Rexos.ipynb`  
+- `visuals-script.ipynb`  
   A Jupyter notebook that generates all visualisations, plots, and annotated derivation steps for the paper.
-- `Rexos-Derivation-Paper.pdf`  
+- `bs-derivation.pdf`  
   The printed version of the derivation, including visual elements produced by the notebook.
 
 ## Contents at a glance
